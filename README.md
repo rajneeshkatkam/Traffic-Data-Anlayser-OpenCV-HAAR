@@ -7,8 +7,7 @@
 A accurate traffic data analyser is built by analysising the video feed using image processing techniques and using Haar Cascades and traditional trackers to get the traffic density results.
 
 ## Instructions: 
-Chose the correct Video Source.
-And add the path of the classifier in the code.
+Chose the correct Video Source and add the path of the classifier in the code.
 
 ## Packages Needed:
 openCV 3.1.0 with contribs
